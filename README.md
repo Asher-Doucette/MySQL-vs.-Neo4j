@@ -1,11 +1,11 @@
 <h1 style="text-align: center;">MySQL-vs.-Neo4j</h1>
 <h2 style="text-align: center;">SELECT best_option FROM options WHERE criteria = 'performance'; MATCH (choice:Option) WHERE choice.criteria = 'relationships' RETURN choice;</h2>
 
-Asher Doucette
-CSI 300
-Professor David Kopec
-Project 3 Option 2
-1 May 2024
+Asher Doucette \
+CSI 300 \
+Professor David Kopec \
+Project 3 Option 2 \
+1 May 2024 \
 
 ### Ideal Use Cases for MySQL
 MySQL stands as one of the most popular relational database management systems, renowned for its strong data integrity, precise structured data definitions, and comprehensive support for complex transactions. This section delves into the ideal use cases for MySQL, showcasing where its capabilities are most beneficial. We will explore its pivotal role in various sectors including Web Applications, E-Commerce Systems, Enterprise Applications, Data Warehousing, and Online Gaming. Each of these domains leverages MySQL’s robust features to handle specific data management needs effectively, underscoring its versatility and reliability in diverse technological landscapes.
