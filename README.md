@@ -49,7 +49,7 @@ Neo4j is designed to handle large volumes of data with high connectivity. Its ar
 
 #### 5. Real-Time Insights
 
-    The ability of Neo4j to provide real-time insights is one of its most significant advantages. In domains such as fraud detection, recommendation systems, and social networking, understanding relationships in real-time is crucial for making informed decisions and delivering relevant content to users. Neo4j’s efficient data processing supports these requirements, providing businesses with the agility to react promptly to changing conditions and new information.
+The ability of Neo4j to provide real-time insights is one of its most significant advantages. In domains such as fraud detection, recommendation systems, and social networking, understanding relationships in real-time is crucial for making informed decisions and delivering relevant content to users. Neo4j’s efficient data processing supports these requirements, providing businesses with the agility to react promptly to changing conditions and new information.
 
 
 #### 6. Flexible Schema
