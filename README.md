@@ -3,7 +3,6 @@
 
 Asher Doucette \
 CSI 300 \
-Professor David Kopec \
 Project 3 Option 2 \
 1 May 2024
 
