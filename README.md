@@ -54,18 +54,47 @@ In network and IT infrastructure management, Larsen & Toubro Infotech in Mumbai,
 Through these diverse applications—from social platforms and recommendation systems to fraud detection and network management—Neo4J demonstrates its ability to handle complex data relationships efficiently. Its graph-based approach offers significant advantages in domains where connections define core functionality, illustrating that in a connected world, the power of data is not just in the points themselves but in the connections between them.
 
 ### References
+
 "Amazon RDS for MySQL." Amazon Web Services (AWS), no publication date. Accessed 1 May 2024. https://aws.amazon.com/rds/mysql/.
+
+
 Apache License. Version 2.0, January 2004. Apache. https://www.apache.org/licenses/LICENSE-2.0.
+
+
 "Bill Gates Returns." Armchair Expert Podcast. https://www.armchairexpertpod.com/pods/bill-gates-returns. Accessed 1 May 2024.
+
+
 "Cloud SQL for MySQL." Google Cloud, no publication date. Accessed 1 May 2024. https://cloud.google.com/sql/docs/mysql/.
+
+
 IBM 650 "IBM Magnetic Drum Data Processing Machine." IBM, 1955. PDF file. Accessed 1 May 2024. https://d1yx3ys82bpsa0.cloudfront.net/brochures/ibm.650.1955.102646125.pdf.
+
+
 Lane, James. "A History of Shopify." Radiant Blog, Radiant, no publication date. Accessed 1 May 2024. https://byradiant.com/blog/a-history-of-shopify/.
+
+
 Larsen & Toubro Infotech Ltd. "Larsen & Toubro Infotech Patents." Justia Patents. https://patents.justia.com/assignee/larsen-toubro-infotech-ltd. Accessed 1 May 2024.
+
+
 Needham, Mark, and Amy E. Hodler. Graph Algorithms: Practical Examples in Apache Spark and Neo4. 1st ed., Princeton University Press, 26 May 2019.
+
+
 "Notice on DOTS Compatibility with Unity 2021.1." Unity Forum, 12 Mar. 2021. Unity Technologies, https://forum.unity.com/threads/notice-on-dots-compatibility-with-unity-2021-1.1091800/. Accessed 1 May 2024.
+
+
 Osman, Maddy. "The History of Magento." Nexcess Blog, Nexcess, 14 Dec. 2023. Accessed 1 May 2024. https://www.nexcess.net/blog/magento-history/.
+
+
 "Ruby on Rails: The Documentary." YouTube, uploaded by Honeypot, 9 Nov. 2023. Accessed 1 May 2024. https://www.youtube.com/watch?v=HDKUEXBF3B4.
+
+
 Robinson, Ian, Jim Webber, and Emil Eifrem. Graph Databases. 2nd ed., O'Reilly Media, 16 July 2015.
+
+
 Sharma, Anuj, and Prabin Kumar Panigrahi. "A Review of Financial Accounting Fraud Detection Based on Data Mining Techniques." International Journal of Computer Applications, vol. 39, no. 1, Feb. 2012, pp. 37-42.
+
+
 "Under the Hood: MySQL Pool Scanner (MPS)." Facebook Engineering, 22 July 2021. https://engineering.fb.com/2021/07/22/core-infra/mysql/.
+
+
 "Use MySQL in Azure." Microsoft Azure, no publication date. Accessed 1 May 2024. https://azure.microsoft.com/en-us/services/mysql/.
