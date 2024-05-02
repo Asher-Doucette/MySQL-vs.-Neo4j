@@ -27,7 +27,7 @@ Each of these paradigms plays a critical role in the architecture and functional
 In the evolving landscape of database technologies, Neo4j has emerged as a leader with its innovative graph-based model. This NoSQL database system offers a sophisticated architecture tailored for managing highly connected data. Neo4j is not merely a storage solution but a powerful tool for deriving insights from complex relationships embedded within data. This essay explores the core paradigms of Neo4j: its graph-based model, the Cypher query language, ACID compliance, scalability and performance, real-time insights, and flexible schema. These features collectively enable Neo4j to meet the diverse needs of modern data-intensive applications.
 
 
-Graph-Based Model
+* Graph-Based Model
 
 At the core of Neo4j is its graph data model, which organizes data into nodes and relationships rather than traditional tables. Nodes represent entities such as people, businesses, or accounts, while relationships depict the connections between these entities, each potentially adorned with properties to store relevant data. This structure excels in handling complex queries involving deep relationships, allowing for an intuitive representation of networked systems which is closer to how real-world interactions are structured.
 
